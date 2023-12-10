@@ -11,11 +11,13 @@ author: We always bring good product to your home
 navbar-links:
   About Aseka Store:
     - Company Profile: "aboutme"
-    - Our Location: "/directory/location" # edit lagi
+    - Our Location: "/d/location" # edit lagi
   Products:
-    - Freseka Box: "/directory/freseka" # edit lagi
-    - Mikame: "/directory/mikame" # edit lagi
-    - Get DE: "/directory/getde" # edit lagi
+    - Freseka Box:
+        - Product : "/d/freseka"
+        - Challenge : "/d/fresekachallenge"
+    - Mikame: "/d/mikame" # edit lagi
+    - Get DE: "/d/getde" # edit lagi
   Connect With Us:
     - Tokopedia: "https://www.tokopedia.com/asekastore"
     - Instagram: "https://www.instagram.com/aseka.id"
