@@ -2,7 +2,7 @@
 title: Aseka Store
 
 # Your name to show in the footer
-author: Aseka Store
+author: We always bring good product to your home
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -11,12 +11,14 @@ author: Aseka Store
 navbar-links:
   About Aseka Store:
     - Company Profile: "aboutme"
-    - Our Location: "location" # edit lagi
+    - Our Location: "/directory/location" # edit lagi
   Products:
-    - Freseka Box: "https://beautifuljekyll.com" # edit lagi
-    - Mikame: "https://www.markdowntutorial.com/" # edit lagi
-    - Get DE: "https://www.markdowntutorial.com/" # edit lagi
-  Author's home: "https://deanattali.com" # edit lagi
+    - Freseka Box: "/directory/freseka" # edit lagi
+    - Mikame: "/directory/mikame" # edit lagi
+    - Get DE: "/directory/getde" # edit lagi
+  Connect With Us:
+    - Tokopedia: "https://www.tokopedia.com/asekastore"
+    - Instagram: "https://www.instagram.com/aseka.id"
 
 ################
 # --- Logo --- #
@@ -264,6 +266,11 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+  -
+    scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
 
 # Exclude these files from production site
 exclude:
