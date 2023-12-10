@@ -10,7 +10,7 @@ author: We always bring good product to your home
 
 navbar-links:
   About Aseka Store:
-    - Company Profile: "aboutme"
+    - Company Profile: "/d/aboutme"
     - Our Location: "/d/location" # edit lagi
   Products:
     - Freseka Box: "/d/freseka"

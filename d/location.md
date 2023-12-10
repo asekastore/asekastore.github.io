@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Our Location
-subtitle: Why you'd want to go on a date with me
 ---
+
+<iframe src="https://www.tokopedia.com/asekastore/?embed=true" height="2400" style="width:100%;border:none;"></iframe>
