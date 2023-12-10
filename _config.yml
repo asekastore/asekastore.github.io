@@ -13,9 +13,7 @@ navbar-links:
     - Company Profile: "aboutme"
     - Our Location: "/d/location" # edit lagi
   Products:
-    - Freseka Box:
-        - Product : "/d/freseka"
-        - Challenge : "/d/fresekachallenge"
+    - Freseka Box: "/d/freseka"
     - Mikame: "/d/mikame" # edit lagi
     - Get DE: "/d/getde" # edit lagi
   Connect With Us:
@@ -270,7 +268,7 @@ defaults:
       layout: "page"
   -
     scope:
-      path: assets/img/favicons
+      path: assets/img/favicon
     values:
       swcache: true
 
