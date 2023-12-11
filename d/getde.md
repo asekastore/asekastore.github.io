@@ -36,6 +36,12 @@ your visual identity and bring your design aspirations to fruition.
 
 Explore a selection of our portfolio showcased below:
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;">
-<a href="https://dribbble.com/abelkristanto" data-iframely-url="//iframely.net/nf8Z72Q"></a></div></div>
-<script async src="//iframely.net/embed.js"></script>
+<div style="max-width: 1920px;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;">
+<iframe src="//iframely.net/bxqHCtQ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen>
+</iframe></div>
+</div>
+
+<div style="max-width: 1920px;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;">
+<iframe src="//iframely.net/unVX1eB" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen>
+</iframe></div>
+</div>
