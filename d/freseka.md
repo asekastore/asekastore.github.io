@@ -21,13 +21,13 @@ because at Freseka Box, it's not just about the box; it's about elevating the st
 # Our Snack Product
 You can find the finest products that make you happy.
 
-<iframe src="/assets/pdf/Aseka Snack.pdf" allowfullscreen=true width="600" height="600"></iframe>
+<iframe src="/assets/pdf/Aseka Snack.pdf" allowfullscreen=true width="800" height="600"></iframe>
 
 [//]: # (<object data="/assets/pdf/Aseka Snack.pdf" type="application/pdf" width="100%" height="100%"></object>)
 
 # Our Catering Product
 You can find the finest products that make you happy.
 
-[//]: # (<iframe src="/assets/pdf/Aseka Food.pdf" width="600" height="400"></iframe>)
+<iframe src="/assets/pdf/Aseka Food.pdf" width="800" height="600"></iframe>
 
-<object data="/assets/pdf/Aseka Food.pdf" type="application/pdf" width="100%" height="100%"></object>
+[//]: # (<object data="/assets/pdf/Aseka Food.pdf" type="application/pdf" width="100%" height="100%"></object>)
