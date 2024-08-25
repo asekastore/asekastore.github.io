@@ -17,3 +17,13 @@ from farm to your table.
 Whether you're a home chef seeking premium food or someone passionate about healthy, flavorful meals, 
 Freseka Box is your gateway to a fresher culinary experience. Join us as we redefine the narrative around fresh food – 
 because at Freseka Box, it's not just about the box; it's about elevating the standard of freshness in every meal.
+
+# Our Snack Product
+You can find the finest products that make you happy.
+
+<object data="/assets/img/Aseka Snack.pdf" type="application/pdf" width="100%"></object>
+
+# Our Catering Product
+You can find the finest products that make you happy.
+
+<object data="/assets/img/Aseka Food.pdf" type="application/pdf" width="100%"></object>
